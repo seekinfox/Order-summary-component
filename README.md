@@ -28,41 +28,36 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Scrrenshot Desktop version ](https://raw.githubusercontent.com/seekinfox/Order-summary-component/master/Screenshot_2021-08-22%20Frontend%20Mentor%20Order%20summary%20card(1).png)
+**laptop version ScreenShot.**
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+![Screenshot_2021-08-22 Frontend Mentor Order summary card|281x500](https://raw.githubusercontent.com/seekinfox/Order-summary-component/master/Screenshot_2021-08-22%20Frontend%20Mentor%20Order%20summary%20card.png)
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+**Mobile Version Screenshot**
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github master repository ](https://github.com/seekinfox/Order-summary-component/tree/master)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
+
 - CSS custom properties
 - Flexbox
-- CSS Grid
+- SVG images
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+Hello, 
+This was my first non totorial project.
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
