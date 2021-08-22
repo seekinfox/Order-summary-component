@@ -1,5 +1,7 @@
+/*Hello , This is seekinfox's css, Thank you for clicking me out*/
 html, main {
-    width:100%;
+    width:100vw;
+    height:100vh;
     margin: 0;
     top: 0;
     right: 0;
@@ -29,12 +31,12 @@ body::before {
 
 :root {
     --Very-pale-blue: hsl(225, 100%, 98%);
-    --Desaturated-blue: hsl(224, 23%, 55%);
+    --Desaturated-blue: hsl(224, 23%, 85%);
     --Dark-blue: hsl(223, 47%, 23%);
     --Pale-blue: hsl(225, 100%, 94%);
     --Pale-blueA: rgba(232, 224, 255,0.5);
     --Bright-blue: hsl(245, 75%, 52%);
-    
+    --Bright-blue1: hsl(245, 75%, 62%);
 }
 
 #card {
@@ -119,16 +121,24 @@ div p {
     border: none;
     padding: 0.9rem;
 }
-
+#Bone:hover {
+    cursor: pointer;
+    background: var(--Bright-blue1);
+}
 #Btwo {
     background: white;
     box-shadow: 0 10px 10px var(--Desaturated-blue) inset;
     border-radius: 10px;
     font-weight: 900;
     border: none;
-    color: rgb(50,50,50);
+    color: rgb(50,50,100);
     padding: 0.9rem;
 }
+#Btwo:hover {
+    cursor: pointer;
+    color: rgb(0,0,0);
+}
+
 @media (min-width: 768px) {
     body::before  {
        content: "";
@@ -144,4 +154,17 @@ div p {
         display: flex;
        
     }
+}
+.attribution {
+    padding: 1rem;
+    color: rgb(160,160,160);
+    margin-top: 1rem;
+}
+.attribution a {
+    text-decoration: none;
+    color: hsl(245, 75%, 82%);
+}
+a:hover {
+    text-decoration: none;
+    color: var(--Bright-blue1);
 }
