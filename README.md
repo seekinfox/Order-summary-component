@@ -56,11 +56,10 @@ Users should be able to:
 
 ### What I learned
 
-Hello, 
-This is my first non tutorial challenge. 
-Things i learned ->
--How to plan your page.
--Designing mobile first-layout turnout to be a lot better.
+Hello, This is my first non tutorial challenge. 
+Things i learned -> 
+* How to plan your page.
+* Designing mobile first-layout turnout to be a lot better.
 
 
 
