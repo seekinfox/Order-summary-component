@@ -4,21 +4,19 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Table of contents
 
-- [Overview](#overview)
+
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 
-## Overview
+
 
 ### The challenge
 
@@ -42,7 +40,6 @@ Users should be able to:
 - Solution URL: [Github master repository ](https://github.com/seekinfox/Order-summary-component/tree/master)
 - Live Site URL: [github page@Seekinfox](https://seekinfox.github.io/Order-summary-component/)
 
-## My process
 
 ### Built with
 
