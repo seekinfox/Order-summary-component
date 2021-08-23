@@ -66,8 +66,6 @@ I want to get more comfortable with using CSS flex box. CSS Grid is also somethi
 Got confused with selectors.
 I will work on that 
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 
 ## Author
 
